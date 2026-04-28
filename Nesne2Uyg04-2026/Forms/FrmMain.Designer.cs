@@ -51,7 +51,7 @@
             panel1.Dock = DockStyle.Top;
             panel1.Location = new Point(0, 0);
             panel1.Name = "panel1";
-            panel1.Size = new Size(1254, 176);
+            panel1.Size = new Size(1281, 176);
             panel1.TabIndex = 0;
             // 
             // toolStrip1
@@ -60,7 +60,7 @@
             toolStrip1.Items.AddRange(new ToolStripItem[] { btnWork, btnCustomer, btnPayment, btnExit });
             toolStrip1.Location = new Point(0, 0);
             toolStrip1.Name = "toolStrip1";
-            toolStrip1.Size = new Size(1254, 73);
+            toolStrip1.Size = new Size(1281, 73);
             toolStrip1.TabIndex = 1;
             toolStrip1.Text = "toolStrip1";
             // 
@@ -126,14 +126,14 @@
             panel2.Dock = DockStyle.Fill;
             panel2.Location = new Point(0, 176);
             panel2.Name = "panel2";
-            panel2.Size = new Size(1254, 567);
+            panel2.Size = new Size(1281, 713);
             panel2.TabIndex = 1;
             // 
             // FrmMain
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(1254, 743);
+            ClientSize = new Size(1281, 889);
             Controls.Add(panel2);
             Controls.Add(panel1);
             ForeColor = SystemColors.HotTrack;
