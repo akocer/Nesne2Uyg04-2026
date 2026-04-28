@@ -103,7 +103,12 @@ namespace Nesne2Uyg04_2026.Forms
                 {
                     item.Text = "";
                 }
-            }   
+            }
+        }
+
+        private void label8_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

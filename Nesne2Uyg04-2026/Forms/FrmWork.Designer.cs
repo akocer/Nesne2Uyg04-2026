@@ -258,6 +258,7 @@
             label8.Size = new Size(71, 25);
             label8.TabIndex = 70;
             label8.Text = "Ödeme";
+            label8.Click += label8_Click;
             // 
             // label6
             // 

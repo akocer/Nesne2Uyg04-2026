@@ -140,6 +140,7 @@
             Name = "FrmMain";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Form1";
+            WindowState = FormWindowState.Maximized;
             Load += FrmMain_Load;
             panel1.ResumeLayout(false);
             panel1.PerformLayout();
